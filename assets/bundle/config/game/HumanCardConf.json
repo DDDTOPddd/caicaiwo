@@ -1,0 +1,662 @@
+{   
+    "1":{
+        "hair":{
+            "color":"red",
+            "style":"straight"
+        },
+        "eyecolor": "black",
+        "eyebrowcolor":"black",
+        "skin":"white",
+        "sex": "female",  
+        "decoration":{
+            "hasdecoration": true,
+            "glasses": 1,
+            "cap":0,
+            "capcolor":"none",
+            "hasearrings":false,
+            "earringscolor":"none",
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "2":{
+        "hair":{
+            "color":"white",
+            "style":"short"
+        },
+        "eyecolor": "blue",
+        "eyebrowcolor":"white",
+        "skin":"white",
+        "sex": "male",  
+        "decoration":{
+            "hasdecoration": true,
+            "glasses": 0,
+            "cap":1,
+            "capcolor":"black",
+            "hasearrings":false,
+            "earringscolor":"none",
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":true
+    },
+    "3":{
+        "hair":{
+            "color":"black",
+            "style":"short"
+        },
+        "eyecolor": "black",
+        "eyebrowcolor":"black",
+        "skin":"brown",
+        "sex": "male",  
+        "decoration":{
+            "hasdecoration": true,
+            "glasses": 2,
+            "cap":0,
+            "capcolor":"none",
+            "hasearrings":false,
+            "earringscolor":"none",
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "4":{
+        "hair":{
+            "color":"red",
+            "style":"bunches"
+        },
+        "eyecolor": "green",
+        "eyebrowcolor":"black",
+        "skin":"white",
+        "sex": "female",  
+        "decoration":{
+            "hasdecoration": false,
+
+            "glasses": 0,
+
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "5":{
+        "hair":{
+            "color":"black",
+            "style":"short"
+        },
+        "eyecolor": "black",
+        "eyebrowcolor":"black",
+        "skin":"brown",
+        "sex": "male",  
+        "decoration":{
+            "hasdecoration": true,
+
+            "glasses": 0,
+            
+            "cap":2,
+            "capcolor":"brown",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "6":{
+        "hair":{
+            "color":"yellow",
+            "style":"bunches"
+        },
+        "eyecolor": "blue",
+        "eyebrowcolor":"yellow",
+        "skin":"white",
+        "sex": "female",  
+        "decoration":{
+            "hasdecoration": true,
+
+            "glasses": 0,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"pink"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "7":{
+        "hair":{
+            "color":"white",
+            "style":"short"
+        },
+        "eyecolor": "black",
+        "eyebrowcolor":"white",
+        "skin":"white",
+        "sex": "male",  
+        "decoration":{
+            "hasdecoration": false,
+
+            "glasses": 0,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "8":{
+        "hair":{
+            "color":"yellow",
+            "style":"short"
+        },
+        "eyecolor": "blue",
+        "eyebrowcolor":"yellow",
+        "skin":"white",
+        "sex": "male",  
+        "decoration":{
+            "hasdecoration": true,
+
+            "glasses": 0,
+            
+            "cap":1,
+            "capcolor":"black",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "9":{
+        "hair":{
+            "color":"yellow",
+            "style":"straight"
+        },
+        "eyecolor": "blue",
+        "eyebrowcolor":"yellow",
+        "skin":"white",
+        "sex": "female",  
+        "decoration":{
+            "hasdecoration": true,
+
+            "glasses": 2,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"pink"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "10":{
+        "hair":{
+            "color":"black",
+            "style":"short"
+        },
+        "eyecolor": "black",
+        "eyebrowcolor":"black",
+        "skin":"brown",
+        "sex": "male",  
+        "decoration":{
+            "hasdecoration": false,
+
+            "glasses": 0,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":true,
+        "hasscar":false
+    },
+    "11":{
+        "hair":{
+            "color":"none",
+            "style":"none"
+        },
+        "eyecolor": "black",
+        "eyebrowcolor":"black",
+        "skin":"white",
+        "sex": "female",  
+        "decoration":{
+            "hasdecoration": true,
+
+            "glasses": 1,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":true,
+            "earringscolor":"pink",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "12":{
+        "hair":{
+            "color":"black",
+            "style":"straight"
+        },
+        "eyecolor": "black",
+        "eyebrowcolor":"black",
+        "skin":"white",
+        "sex": "female",  
+        "decoration":{
+            "hasdecoration": true,
+
+            "glasses": 0,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":true,
+            "bowknotcolor":"blue",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "13":{
+        "hair":{
+            "color":"white",
+            "style":"bunches"
+        },
+        "eyecolor": "green",
+        "eyebrowcolor":"white",
+        "skin":"white",
+        "sex": "female",  
+        "decoration":{
+            "hasdecoration": false,
+
+            "glasses": 0,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "14":{
+        "hair":{
+            "color":"yellow",
+            "style":"short"
+        },
+        "eyecolor": "black",
+        "eyebrowcolor":"yellow",
+        "skin":"white",
+        "sex": "male",  
+        "decoration":{
+            "hasdecoration": false,
+
+            "glasses": 0,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "15":{
+        "hair":{
+            "color":"white",
+            "style":"high"
+        },
+        "eyecolor": "blue",
+        "eyebrowcolor":"white",
+        "skin":"white",
+        "sex": "female",  
+        "decoration":{
+            "hasdecoration": true,
+
+            "glasses": 0,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":true,
+            "earringscolor":"pink",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "16":{
+        "hair":{
+            "color":"none",
+            "style":"none"
+        },
+        "eyecolor": "green",
+        "eyebrowcolor":"black",
+        "skin":"white",
+        "sex": "male",  
+        "decoration":{
+            "hasdecoration": false,
+
+            "glasses": 0,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":true,
+        "hasscar":false
+    },
+    "17":{
+        "hair":{
+            "color":"yellow",
+            "style":"short"
+        },
+        "eyecolor": "blue",
+        "eyebrowcolor":"yellow",
+        "skin":"white",
+        "sex": "male",  
+        "decoration":{
+            "hasdecoration": false,
+
+            "glasses": 0,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":true,
+        "hasscar":false
+    },
+    "18":{
+        "hair":{
+            "color":"white",
+            "style":"straight"
+        },
+        "eyecolor": "green",
+        "eyebrowcolor":"white",
+        "skin":"brown",
+        "sex": "female",  
+        "decoration":{
+            "hasdecoration": true,
+
+            "glasses": 0,
+            
+            "cap":2,
+            "capcolor":"yellow",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "19":{
+        "hair":{
+            "color":"black",
+            "style":"short"
+        },
+        "eyecolor": "green",
+        "eyebrowcolor":"black",
+        "skin":"white",
+        "sex": "male",  
+        "decoration":{
+            "hasdecoration": false,
+
+            "glasses": 0,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":true
+    },
+    "20":{
+        "hair":{
+            "color":"red",
+            "style":"bunches"
+        },
+        "eyecolor": "green",
+        "eyebrowcolor":"black",
+        "skin":"white",
+        "sex": "female",  
+        "decoration":{
+            "hasdecoration": true,
+
+            "glasses": 0,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":true,
+            "earringscolor":"white",
+
+            "hasbowknot":true,
+            "bowknotcolor":"blue",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "21":{
+        "hair":{
+            "color":"black",
+            "style":"high"
+        },
+        "eyecolor": "blue",
+        "eyebrowcolor":"black",
+        "skin":"white",
+        "sex": "female",  
+        "decoration":{
+            "hasdecoration": true,
+
+            "glasses": 2,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "22":{
+        "hair":{
+            "color":"none",
+            "style":"none"
+        },
+        "eyecolor": "blue",
+        "eyebrowcolor":"black",
+        "skin":"white",
+        "sex": "male",  
+        "decoration":{
+            "hasdecoration": true,
+
+            "glasses": 0,
+            
+            "cap":2,
+            "capcolor":"brown",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":true
+    },
+    "23":{
+        "hair":{
+            "color":"black",
+            "style":"bunches"
+        },
+        "eyecolor": "green",
+        "eyebrowcolor":"black",
+        "skin":"brown",
+        "sex": "female",  
+        "decoration":{
+            "hasdecoration": true,
+
+            "glasses": 0,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":true,
+            "earringscolor":"white",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    },
+    "24":{
+        "hair":{
+            "color":"red",
+            "style":"short"
+        },
+        "eyecolor": "green",
+        "eyebrowcolor":"black",
+        "skin":"white",
+        "sex": "male",  
+        "decoration":{
+            "hasdecoration": false,
+
+            "glasses": 0,
+            
+            "cap":0,
+            "capcolor":"none",
+
+            "hasearrings":false,
+            "earringscolor":"none",
+
+            "hasbowknot":false,
+            "bowknotcolor":"none",
+
+            "hairclip":"none"
+        },
+        "hasmustache":false,
+        "hasscar":false
+    }
+
+
+
+}

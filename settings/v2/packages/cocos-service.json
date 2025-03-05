@@ -1,0 +1,49 @@
+{
+  "game": {
+    "app_id": "612020298",
+    "c_id": "0",
+    "name": "猜猜我是谁"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "0d7f50"
+    },
+    {
+      "app_id": "612020298",
+      "config_id": "a306e4"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "0d7f50",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "612020298",
+      "config_id": "a306e4",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "353",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "550",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "356",
+          "enable": false,
+          "param": {}
+        }
+      ]
+    }
+  ]
+}

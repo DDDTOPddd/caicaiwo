@@ -1,0 +1,18 @@
+{
+  "_sourceId": "c30b28da-749e-479b-bcb6-cecd8d7be9e3",
+  "creator": {
+    "version": "3.6.3"
+  },
+  "dependencies": {
+    "baidu-aip-sdk": "^4.16.16",
+    "crypto-es": "^1.2.7",
+    "express": "^4.19.2",
+    "express-generator": "^4.16.1",
+    "miniprogram-api-typings": "^3.12.2",
+    "wx-server-sdk": "^3.0.1"
+  },
+  "description": "猜猜我是谁",
+  "name": "caicai",
+  "uuid": "00d7d957-a3e8-4ad6-80f4-2fcfb235bca4",
+  "version": "3.6.3"
+}
